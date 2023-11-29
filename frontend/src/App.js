@@ -1,20 +1,21 @@
 /*global google*/
 import './App.css';
+import axios from 'axios';
 import React, { useState } from 'react';
 import DatePicker from './Component/Date';
 import City from './Component/City';
 import Preferences from './Component/Preferences';
 import { AttractionList, handlePlacesChange } from './Component/AttractionList';
-import { Map } from './Component/Map';
+import { GoogleMap, LoadScript } from '@react-google-maps/api'; // Import GoogleMap and LoadScript
+import Map from './Component/Map';
 import { Schedule, onDragEnd } from './Component/Schedule';
 import callAPIs from './utils';
 import Button from '@mui/material/Button';
-import { LoadScript } from '@react-google-maps/api';
 import Logo from './Image/Logo.png';
-
+ 
 function App() {
   const [show, toggleShow] = useState(false);
-  const [city, setCity] = useState("taipei");
+  const [city, setCity] = useState("delhi");
   const [departureDate, setDepartureDate] = useState(new Date());
   const [returnDate, setReturnDate] = useState(new Date());
   const [priceLevel, setPriceLevel] = useState(2);
@@ -92,11 +93,17 @@ function App() {
           <LoadScript
             googleMapsApiKey={googleMapsApiKey}
           >
-            <Map
-              loadingElement={<div style={{ height: "100%" }} />}
-              schedule={schedule}
-              allPlaces={allPlaces}
-            />
+            <GoogleMap
+              center={{ lat: 28.7041, lng: 77.1025}} // Provide initial center coordinates
+              zoom={10} // Set the initial zoom level
+              mapContainerStyle={{ height: "500px", width: "500px" }}
+            >
+              <Map
+                loadingElement={<div style={{ height: "100%" }} />}
+                schedule={schedule}
+                allPlaces={allPlaces}
+              />
+            </GoogleMap>
           </LoadScript>
         </div>
       </div>

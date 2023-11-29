@@ -1,13 +1,11 @@
 import axios from 'axios';
 function convertDateToAPIDate(date) {
-    const yyyy = date.getYear();
+    const yyyy = date.getFullYear(); // Use getFullYear() instead of getYear()
     const mm = date.getMonth() + 1; // getMonth() is zero-based
     const dd = date.getDate();
-    return [ yyyy,
-            (mm>9 ? '' : '0') + mm,
-            (dd>9 ? '' : '0') + dd
-            ].join('-');
-}
+    return [yyyy, (mm > 9 ? '' : '0') + mm, (dd > 9 ? '' : '0') + dd].join('-');
+  }
+  
 
 export default function callAPIs(embeddedSearchFields, setAllPlaces, setSchedule){
     const departureDate = convertDateToAPIDate(embeddedSearchFields.departureDate);

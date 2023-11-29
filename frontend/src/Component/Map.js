@@ -1,8 +1,9 @@
-/* global google */
-import React, { useEffect, useState } from "react";
-import { GoogleMap, DirectionsRenderer, LoadScript } from "@react-google-maps/api";
+/*global google*/
 
-export function Map(props) {
+import React, { useEffect, useState } from 'react';
+import { GoogleMap, LoadScript, DirectionsService, DirectionsRenderer } from '@react-google-maps/api';
+
+const Map = (props) => {
   const [directions, setDirections] = useState(null);
 
   useEffect(() => {
@@ -44,19 +45,47 @@ export function Map(props) {
     );
   }, [props.allPlaces, props.schedule]);
 
+  // useEffect(() => {
+  //   if (allPlaces.length >= 2 && schedule.length >= 2) {
+  //     const waypoints = schedule.slice(1, -1).map(placeId => {
+  //       const place = allPlaces.find(p => p.id === placeId);
+  //       return place ? { location: place.geometry.location } : null;
+  //     }).filter(Boolean);
+
+  //     const origin = allPlaces.find(p => p.id === schedule[0]);
+  //     const destination = allPlaces.find(p => p.id === schedule[schedule.length - 1]);
+
+  //     if (origin && destination) {
+  //       const directionsService = new window.google.maps.DirectionsService();
+
+  //       directionsService.route(
+  //         {
+  //           origin: origin.geometry.location,
+  //           destination: destination.geometry.location,
+  //           waypoints: waypoints,
+  //           travelMode: window.google.maps.TravelMode.DRIVING,
+  //         },
+  //         (result, status) => {
+  //           if (status === window.google.maps.DirectionsStatus.OK) {
+  //             setDirections(result);
+  //           } else {
+  //             console.error(`error fetching directions ${result}`);
+  //           }
+  //         }
+  //       );
+  //     }
+  //   }
+  // }, [allPlaces, schedule]);
+
   return (
-    <div>
-      <LoadScript
-        googleMapsApiKey="AIzaSyDCNt5DST18CgfQJaZ3W-aD9pWQ7PuOTTE"
-      >
-        <GoogleMap
-          center={{ lat: 25.033964, lng: 121.564468 }}
-          zoom={12}
-          mapContainerStyle={{ height: "500px", width: "500px" }}
-        >
-          {directions && <DirectionsRenderer directions={directions} />}
-        </GoogleMap>
-      </LoadScript>
-    </div>
+    <GoogleMap
+      center={{ lat: 28.7041, lng: 77.1025 }}
+      zoom={10}
+      mapContainerStyle={{ height: '500px', width: '500px' }}
+    >
+      {directions && <DirectionsRenderer directions={directions} />}
+    </GoogleMap>
   );
-}
+};
+
+export default Map;

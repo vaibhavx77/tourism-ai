@@ -33,6 +33,7 @@ export default function City(props) {
           onChange={handleChange}
         >
           <MenuItem value={'delhi'}>Delhi</MenuItem>
+          {/* <MenuItem value={'taipei'}>Taipei</MenuItem> */}
         </Select>
       </FormControl>
     </div>
