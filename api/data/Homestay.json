@@ -1,0 +1,202 @@
+[
+  {
+    "formatted_address": "Jeanette Home, 13 Block 21, Civic District, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.614,
+          "lng": 77.210
+        },
+        "southwest": {
+          "lat": 28.613,
+          "lng": 77.208
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "id": "H0",
+    "name": "Jeanette Home Homestay (Line ID: @jeanettehome)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109084682677814773910\">A Google User</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJZ8zkzqerQjQR9L5XlQR5aps",
+    "plus_code": {
+      "compound_code": "2JWC+4F Delhi, India",
+      "global_code": "7QQ32JWC+4F"
+    },
+    "rating": 4.9,
+    "reference": "ChIJZ8zkzqerQjQR9L5XlQR5aps",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "131 Block 18, Sunshine Mountain National Park, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6446,
+        "lng": 77.1045
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.6459,
+          "lng": 77.106
+        },
+        "southwest": {
+          "lat": 28.643,
+          "lng": 77.103
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "id": "H1",
+    "name": "Futian Village Relaxation Resort",
+    "opening_hours": {
+      "open_now": false
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1287,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112827510077531366356\">Futian Village Educational Relaxation Resort</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJhZ76WY6tQjQRsruTRxg7qb8",
+    "plus_code": {
+      "compound_code": "4HV9+R8 Delhi, India",
+      "global_code": "7QQ34HV9+R8"
+    },
+    "rating": 4.0,
+    "reference": "ChIJhZ76WY6tQjQRsruTRxg7qb8",
+    "types": [
+      "tourist_attraction",
+      "cafe",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 392
+  },
+  {
+    "formatted_address": "22B Block 12, Serenity Lane, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5675,
+        "lng": 77.3422
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.5689,
+          "lng": 77.3436
+        },
+        "southwest": {
+          "lat": 28.566,
+          "lng": 77.341
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "id": "H2",
+    "name": "Serenity Stay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101050700690162482131\">A Google User</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJJKJJPcfzvACrQjQRSI5Tkc8RAkw",
+    "plus_code": {
+      "compound_code": "GHI3+45 Delhi, India",
+      "global_code": "7QQVGHI3+45"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJKJJPcfzvACrQjQRSI5Tkc8RAkw",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92
+  },
+  {
+    "formatted_address": "89 Block 9, Tranquil Street, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6001,
+        "lng": 77.2056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.6015,
+          "lng": 77.207
+        },
+        "southwest": {
+          "lat": 28.5986,
+          "lng": 77.204
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "id": "H3",
+    "name": "Tranquil Haven Homestay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112233445566778899\">A Google User</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 2400
+      }
+    ],
+    "place_id": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+    "plus_code": {
+      "compound_code": "JKL1+67 Delhi, India",
+      "global_code": "7QQVJKL1+67"
+    },
+    "rating": 4.3,
+    "reference": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55
+  }
+]

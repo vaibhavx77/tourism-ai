@@ -1,0 +1,314 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "171 Star Cloud Road, Nehru Place, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5532,
+        "lng": 77.2564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.5546,
+          "lng": 77.2578
+        },
+        "southwest": {
+          "lat": 28.5527,
+          "lng": 77.2559
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R0",
+    "name": "FACILE Fusion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 642,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114899862191410548665\">FACILE Fusion</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJsUmIIBJTXTQRT3jCnWh3OQI",
+    "plus_code": {
+      "compound_code": "3HJW+FR Delhi, India",
+      "global_code": "7QQ33HJW+FR"
+    },
+    "price_level": null,
+    "rating": 4.6,
+    "reference": "ChIJsUmIIBJTXTQRT3jCnWh3OQI",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 220
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2001 Success Road, Nehru Place, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5568,
+        "lng": 77.2539
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.5582,
+          "lng": 77.2553
+        },
+        "southwest": {
+          "lat": 28.5563,
+          "lng": 77.2534
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R1",
+    "name": "Adda Simple Eats & Coffee",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1257,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105234029786723078733\">Bart Tsai</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJG9ttbe2sQjQRIHs65J70KAo",
+    "plus_code": {
+      "compound_code": "3HMW+V5 Delhi, India",
+      "global_code": "7QQ33HMW+V5"
+    },
+    "price_level": 2.0,
+    "rating": 4.5,
+    "reference": "ChIJG9ttbe2sQjQRIHs65J70KAo",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 147
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "173 Star Cloud Road, Nehru Place, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5532,
+        "lng": 77.2564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.5546,
+          "lng": 77.2578
+        },
+        "southwest": {
+          "lat": 28.5527,
+          "lng": 77.2559
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R2",
+    "name": "FC Bistro",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108133437430281584024\">Jerry Chang</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJD-whMVatQjQRs2gdheIR5_Q",
+    "plus_code": {
+      "compound_code": "3HJW+GR Delhi, India",
+      "global_code": "7QQ33HJW+GR"
+    },
+    "price_level": null,
+    "rating": 4.5,
+    "reference": "ChIJD-whMVatQjQRs2gdheIR5_Q",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "342-350 Goodness Road, Shilin District, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6802,
+        "lng": 77.5548
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.6815,
+          "lng": 77.5561
+        },
+        "southwest": {
+          "lat": 28.6796,
+          "lng": 77.5542
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R3",
+    "name": "Delhi Bites",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115037379469332584025\">Delhi Bites</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJeYVP5KntDTkRj2AZ6eqCx2I",
+    "plus_code": {
+      "compound_code": "4V3P+V7 Delhi, India",
+      "global_code": "7QQ34V3P+V7"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJeYVP5KntDTkRj2AZ6eqCx2I",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 89
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "87 Spice Lane, Hauz Khas, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5531,
+        "lng": 77.1957
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.5545,
+          "lng": 77.1971
+        },
+        "southwest": {
+          "lat": 28.5526,
+          "lng": 77.1952
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R4",
+    "name": "Spice Affair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101051848086285067167\">Spice Affair</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJj6Zd6O5hDDkR8TDa-b2BInw",
+    "plus_code": {
+      "compound_code": "3HJF+MJ Delhi, India",
+      "global_code": "7QQ33HJF+MJ"
+    },
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJj6Zd6O5hDDkR8TDa-b2BInw",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 128
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "401 Sizzling Street, Connaught Place, New Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6323,
+        "lng": 77.2201
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.6336,
+          "lng": 77.2214
+        },
+        "southwest": {
+          "lat": 28.6317,
+          "lng": 77.2195
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "id": "R5",
+    "name": "Sizzling Bites",
+    "opening_hours": {
+      "open_now": false
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109743690707508862335\">Sizzling Bites</a>"
+        ],
+        "photo_reference": "photo_reference",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJQ_XliS4FEDkRkUZKVmFqZpY",
+    "plus_code": {
+    "compound_code": "4V57+G3 Delhi, India",
+    "global_code": "7QQ34V57+G3"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJQ_XliS4FEDkRkUZKVmFqZpY",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 94
+  }
+]

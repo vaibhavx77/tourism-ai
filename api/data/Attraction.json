@@ -1,0 +1,304 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "India Gate, New Delhi, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6129,
+        "lng": 77.2295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.61443142989272,
+          "lng": 77.23084312989273
+        },
+        "southwest": {
+          "lat": 28.61173177010728,
+          "lng": 77.22814347010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/nature-71.png",
+    "id": "B0",
+    "name": "India Gate",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://example.com\">John Doe</a>"
+        ],
+        "photo_reference": "ATtYBwIiPG12_xKYd31Q-7VPryP-DVqE4yVYz4w0v1TW71xJ0ykdMkxsUD21I4aNJRCRCETMKgsX3yCG9do60cPR_bPnYJlq1rVfiDRsVT7QT629J4pqPRXU_ffCCDFWQJ3Z-j7vaYWem6ypl_RRyCK85hvK6jDjSpG7VZUAENO2iYZ5uXjr",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJMRbm0_usQjQROwTu4kmhUSI",
+    "plus_code": {
+      "compound_code": "3HXP+MR, New Delhi, Delhi, India",
+      "global_code": "7QQ33HXP+MR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJMRbm0_usQjQROwTu4kmhUSI",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8560
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Qutub Minar, New Delhi, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5245,
+        "lng": 77.1855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.52585837989272,
+          "lng": 77.18693012989272
+        },
+        "southwest": {
+          "lat": 28.52315872010728,
+          "lng": 77.18423047010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/nature-71.png",
+    "id": "B1",
+    "name": "Qutub Minar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://example.com\">Jane Smith</a>"
+        ],
+        "photo_reference": "ATtYBwLtS79LYmtGzn9TSmPmXKaRswgYM0qe5VmiaFWaMiiuOsK-PSyuUabaJY1QXWhdVP8lr0-UqnpnLxa6EfGIrs19zW4OMd8UBrX8n98OWzqSRrMfCkl3KaV4Ea4jpHhXUtQ43ps-UrwK-EfaIiOtEG1G66ml9pJRqC4JPf7qF-GXQzI",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJnyEY9K9SXTQRuyhGGUom8Cs",
+    "plus_code": {
+      "compound_code": "4JHP+5C, New Delhi, Delhi, India",
+      "global_code": "7QQ34JHP+5C"
+    },
+    "rating": 4.7,
+    "reference": "ChIJnyEY9K9SXTQRuyhGGUom8Cs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3205
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Humayun's Tomb, New Delhi, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5933,
+        "lng": 77.2507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.59461852989272,
+          "lng": 77.25208742989273
+        },
+        "southwest": {
+          "lat": 28.59191887010728,
+          "lng": 77.24938777010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "id": "B2",
+    "name": "Humayun's Tomb",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://example.com\">Ahmed Khan</a>"
+        ],
+        "photo_reference": "ATtYBwIiPG12_xKYd31Q-7VPryP-DVqE4yVYz4w0v1TW71xJ0ykdMkxsUD21I4aNJRCRCETMKgsX3yCG9do60cPR_bPnYJlq1rVfiDRsVT7QT629J4pqPRXU_ffCCDFWQJ3Z-j7vaYWem6ypl_RRyCK85hvK6jDjSpG7VZUAENO2iYZ5uXjr",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJeVW1rtj8uTkRYI2jo-eYYDc",
+    "plus_code": {
+      "compound_code": "4CJX+5R, New Delhi, Delhi, India",
+      "global_code": "7QQ34CJX+5R"
+    },
+    "rating": 4.4,
+    "reference": "ChIJeVW1rtj8uTkRYI2jo-eYYDc",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1500
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lotus Temple, New Delhi, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.5535,
+        "lng": 77.2588
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.55481852989272,
+          "lng": 77.26018732989273
+        },
+        "southwest": {
+          "lat": 28.55211887010728,
+          "lng": 77.25748767010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/religious-71.png",
+    "id": "B3",
+    "name": "Lotus Temple",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://example.com\">Alisha Sharma</a>"
+        ],
+        "photo_reference": "ATtYBwKtlL4xJXMq4ebqQTNCsMShQ4-Md7YbI-jB-2I2r-V-W6s-1TnWzh9qvnryjvCIn4rSjNpD_GJTzHtI8e_x2n4jtDBc9UVNZlG6D-WRfAn_6XF5lRO_WwmcY6pX7sYXE1dLqQ9yKMR7YHlsz2kWY6_B9FTqL3Fv8L4OYqrYIi8BNEf",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+    "plus_code": {
+      "compound_code": "JKL1+67, New Delhi, Delhi, India",
+      "global_code": "7QQVJKL1+67"
+    },
+    "rating": 4.6,
+    "reference": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2800
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Red Fort, Netaji Subhash Marg, Chandni Chowk, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6562,
+        "lng": 77.2410
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.65754862989272,
+          "lng": 77.24234872989272
+        },
+        "southwest": {
+          "lat": 28.65484897010728,
+          "lng": 77.23964907010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/fort-71.png",
+    "id": "B4",
+    "name": "Red Fort",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://example.com\">Raj Kapoor</a>"
+        ],
+        "photo_reference": "ATtYBwIiPG12_xKYd31Q-7VPryP-DVqE4yVYz4w0v1TW71xJ0ykdMkxsUD21I4aNJRCRCETMKgsX3yCG9do60cPR_bPnYJlq1rVfiDRsVT7QT629J4pqPRXU_ffCCDFWQJ3Z-j7vaYWem6ypl_RRyCK85hvK6jDjSpG7VZUAENO2iYZ5uXjr",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJvxLxY2QdDTkRwJ3H3mexJ1Y",
+    "plus_code": {
+      "compound_code": "4JX5+VJ, Delhi, India",
+      "global_code": "7QQ34JX5+VJ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJvxLxY2QdDTkRwJ3H3mexJ1Y",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4320
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jama Masjid, Meena Bazaar, Jama Masjid, Chandni Chowk, Delhi, India",
+    "geometry": {
+      "location": {
+        "lat": 28.6139,
+        "lng": 77.2355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.61524882989272,
+          "lng": 77.23684882989273
+        },
+        "southwest": {
+          "lat": 28.61254917010728,
+          "lng": 77.23414917010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/mosque-71.png",
+    "id": "B5",
+    "name": "Jama Masjid",
+    "opening_hours": {
+      "open_now": true
+    },
+    "permanently_closed": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://example.com\">Sara Ahmed</a>"
+        ],
+        "photo_reference": "ATtYBwIiPG12_xKYd31Q-7VPryP-DVqE4yVYz4w0v1TW71xJ0ykdMkxsUD21I4aNJRCRCETMKgsX3yCG9do60cPR_bPnYJlq1rVfiDRsVT7QT629J4pqPRXU_ffCCDFWQJ3Z-j7vaYWem6ypl_RRyCK85hvK6jDjSpG7VZUAENO2iYZ5uXjr",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJLRL2s-RDDTkRgFtTkZYxE3U",
+    "plus_code": {
+      "compound_code": "4JX3+P4, Delhi, India",
+      "global_code": "7QQ34JX3+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJLRL2s-RDDTkRgFtTkZYxE3U",
+    "types": [
+      "tourist_attraction",
+      "mosque",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3860
+  }
+]
