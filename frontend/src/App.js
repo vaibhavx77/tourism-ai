@@ -11,7 +11,7 @@ import Map from './Component/Map';
 import { Schedule, onDragEnd } from './Component/Schedule';
 import callAPIs from './utils';
 import Button from '@mui/material/Button';
-import Logo from './Image/Logo.png';
+import Logo from './Image/tripdash.jpg';
  
 function App() {
   const [show, toggleShow] = useState(false);
@@ -38,7 +38,7 @@ function App() {
       backTime: backTime,
       schedule: schedule,
     };
-    callAPIs(embeddedSearchFields, setAllPlaces, setSchedule);
+     callAPIs(embeddedSearchFields, setAllPlaces, setSchedule);
   };
 
   const handleDrag = (result) => {
@@ -67,7 +67,7 @@ function App() {
         <Button id="search" variant="contained" onClick={onSearchClicked}>Search</Button>
       </div>
       <div className="indented column">
-        <Button onClick={() => toggleShow(!show)}>
+        <Button style={{color:"blueviolet"}} onClick={() => toggleShow(!show)}>
           {show ? "collapse" : "other preferences"}
         </Button>
         {show && <Preferences

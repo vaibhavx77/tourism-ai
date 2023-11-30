@@ -198,5 +198,349 @@
       "establishment"
     ],
     "user_ratings_total": 55
-  }
-]
+  },
+    {
+      "formatted_address": "45 Block 7, Harmony Street, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5912,
+          "lng": 77.2345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5925,
+            "lng": 77.2358
+          },
+          "southwest": {
+            "lat": 28.590,
+            "lng": 77.233
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H4",
+      "name": "Harmony Homestay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/12345678901234567890\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "LMN8+23 Delhi, India",
+        "global_code": "7QQVLMN8+23"
+      },
+      "rating": 4.7,
+      "reference": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25
+    },
+    {
+      "formatted_address": "78 Block 15, Tranquility Lane, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5763,
+          "lng": 77.3201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5776,
+            "lng": 77.3214
+          },
+          "southwest": {
+            "lat": 28.575,
+            "lng": 77.318
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H5",
+      "name": "Tranquility Retreat Homestay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112233445566778899\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "PQR6+9B Delhi, India",
+        "global_code": "7QQVPQR6+9B"
+      },
+      "rating": 4.4,
+      "reference": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 33
+    },
+    {
+      "formatted_address": "210 Block 30, Serene Avenue, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5847,
+          "lng": 77.1689
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5860,
+            "lng": 77.1702
+          },
+          "southwest": {
+            "lat": 28.583,
+            "lng": 77.167
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H6",
+      "name": "Serene Homestead",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/12345678901234567890\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "XYZ9+67 Delhi, India",
+        "global_code": "7QQVXYZ9+67"
+      },
+      "rating": 4.8,
+      "reference": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 42
+    },
+    {
+      "formatted_address": "102 Block 25, Peaceful Lane, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.6103,
+          "lng": 77.2590
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6116,
+            "lng": 77.2603
+          },
+          "southwest": {
+            "lat": 28.609,
+            "lng": 77.257
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H7",
+      "name": "Peaceful Retreat Homestay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112233445566778899\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "ABC1+23 Delhi, India",
+        "global_code": "7QQVABC1+23"
+      },
+      "rating": 4.6,
+      "reference": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60
+    },
+    {
+      "formatted_address": "15 Block 5, Tranquil Terrace, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5678,
+          "lng": 77.1903
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5691,
+            "lng": 77.1916
+          },
+          "southwest": {
+            "lat": 28.566,
+            "lng": 77.189
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H8",
+      "name": "Tranquil Terrace Homestay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/12345678901234567890\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "LMN8+23 Delhi, India",
+        "global_code": "7QQVLMN8+23"
+      },
+      "rating": 4.9,
+      "reference": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35
+    },
+    {
+      "formatted_address": "77 Block 8, Blissful Boulevard, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5956,
+          "lng": 77.2254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5969,
+            "lng": 77.2267
+          },
+          "southwest": {
+            "lat": 28.594,
+            "lng": 77.224
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H9",
+      "name": "Blissful Homestead",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112233445566778899\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "PQR6+9B Delhi, India",
+        "global_code": "7QQVPQR6+9B"
+      },
+      "rating": 4.7,
+      "reference": "ChIJJS9QQcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 48
+    },
+    {
+      "formatted_address": "40 Block 11, Harmony Haven, New Delhi, India",
+      "geometry": {
+        "location": {
+          "lat": 28.5789,
+          "lng": 77.2087
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5802,
+            "lng": 77.2100
+          },
+          "southwest": {
+            "lat": 28.577,
+            "lng": 77.208
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "id": "H10",
+      "name": "Harmony Haven Homestay",
+      "opening_hours": {
+        "open_now": true
+      },
+      "permanently_closed": null,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/12345678901234567890\">A Google User</a>"
+          ],
+          "photo_reference": "photo_reference",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "plus_code": {
+        "compound_code": "XYZ9+67 Delhi, India",
+        "global_code": "7QQVXYZ9+67"
+      },
+      "rating": 4.5,
+      "reference": "ChIJKyJJKcfzvACrQjQRSI5Tkc8RAkw",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30
+    }
+  ]
+  

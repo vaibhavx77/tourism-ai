@@ -4,7 +4,7 @@
 
 .App-header {
   margin-right: 3%;
-  padding: 4% 6% 0 6%;
+  padding: 1% 6% 0 2%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -50,7 +50,8 @@
 
 #search {
   margin-right: 3%;
-  margin-top: 2%;
+  margin-top: 1%;
+  background-color: blueviolet;
   padding: 0.8% 2.5%;
 }
 

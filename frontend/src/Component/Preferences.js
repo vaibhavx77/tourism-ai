@@ -7,6 +7,7 @@ import TextField from '@mui/material/TextField';
 const useStyles = styled({
   root: {
     width: 300,
+    
   },
 });
 
@@ -84,7 +85,7 @@ export default function Preferences(props) {
 
   
   return (
-    <div className={classes.root} style={{paddingTop: 4, paddingLeft: 10}}>
+    <div className={classes.root} style={{paddingTop: 4, paddingLeft: 10,}}>
       <form className={classes.container} noValidate>
         <TextField
           style={{paddingRight: 20}}
@@ -126,12 +127,13 @@ export default function Preferences(props) {
         valueLabelDisplay="auto"
         step={1}
         min={0}
+        style={{color:"blueviolet"}}
         max={4}
         value={props.priceLevel}
         onChange={handlePriceLevelChange}
         marks={budgetMarks}
       />
-      <Typography id="outdoor-typo" variant="body2" style={{paddingTop: 12}}>
+      {/* <Typography id="outdoor-typo" variant="body2" style={{paddingTop: 12}}>
         Prefer Indoor Outdoor
       </Typography>
       <Slider 
@@ -142,8 +144,8 @@ export default function Preferences(props) {
         min = {0}
         max = {1}
         marks={indoorMarks}
-      />
-      <Typography id="compact-typo" variant="body2" style={{paddingTop: 12}}>
+      /> */}
+      {/* <Typography id="compact-typo" variant="body2" style={{paddingTop: 12}}>
         Compactness
       </Typography>
       <Slider 
@@ -154,7 +156,7 @@ export default function Preferences(props) {
         min = {0}
         max = {1}
         marks={compactMarks}
-      />
+      /> */}
     </div>
   );
 }

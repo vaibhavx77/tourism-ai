@@ -5,6 +5,7 @@ import FormControl from '@mui/material/FormControl';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import Checkbox from '@mui/material/Checkbox';
+import { colors } from '@mui/material';
  //This Page need to modify Form Control label
 const useStyles = styled((theme) => ({
   root: {
@@ -45,7 +46,7 @@ export function AttractionList(props) {
 
           {props.allPlaces.map((item, index) => (
             <FormControlLabel
-              control={<Checkbox checked={props.schedule.includes(item.id)} onChange={props.onChange} name={item.id} />}
+              control={<Checkbox style={{color:"blueviolet"}} checked={props.schedule.includes(item.id)} onChange={props.onChange} name={item.id} />}
               label={item.name.substr(0, 10)}
             />
             ))}
